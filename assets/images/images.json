@@ -1,23 +1,23 @@
 [
   {
-    "file": "plot-001.jpg",
-    "title": "Lakeside Plot",
-    "price": "₹1,200,000",
-    "location": "Kovalam",
-    "contact": "you@yourdomain.com"
+    "file": "RajBhavanOpposite.jpg",
+    "title": "Prime Commercial Plot",
+    "asking price": "₹55,00,000",
+    "location": "Kowdiar",
+    "contact": "nestrealty@gmail.com"
   },
   {
     "file": "plot-002.jpg",
     "title": "Corner Plot",
     "price": "₹2,500,000",
     "location": "Varkala",
-    "contact": "you@yourdomain.com"
+    "contact": "nestrealty@gmail.com"
   },
   {
     "file": "plot-003.jpg",
     "title": "Agricultural Land",
     "price": "₹900,000",
     "location": "Near Periyar",
-    "contact": "you@yourdomain.com"
+    "contact": "nestrealty@gmail.com"
   }
 ]
